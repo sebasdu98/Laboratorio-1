@@ -2,4 +2,4 @@
 ## Facultad Ingenieria
 ### ACM – GIWEB – FRONT
 #### Creador:
-Sebastian Duque - <20162020039>
+Sebastian Duque Gallego - <20162020039>
