@@ -1,3 +1,3 @@
-![Relax](/imagenes/asd.jpg)
+![Relax](/Bibliotecas/Imágenes/asd.jpg "Rana")
 
 
