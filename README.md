@@ -1,3 +1,3 @@
-![Relax](/imagenes/asd.JPEG)
+![Relax](/imagenes/asd.jpg)
 
 
